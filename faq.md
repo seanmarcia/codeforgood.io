@@ -4,11 +4,11 @@ layout: page
 
 ### FAQ:
 
-##### What is Ruby for Good?
+##### What is Code for Good?
 
-Ruby for Good is an annual event based out of the DC-metro area where Ruby programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers to build something useful. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+Code for Good is an annual event based out of the Portland area where Code programmers from all over the globe get together over a long weekend to build projects that help our communities. Think hanging out in communal space for a weekend with a bunch of developers and designers to build something useful. Participants stay in on-site dorms; hacking and socializing takes place in communal areas. Join us just for the fun of giving back! Questions? Check out the FAQ below or drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
-##### Why are ya'll organizing Ruby for Good?
+##### Why are ya'll organizing Code for Good?
 
 Lots of organizations need the sort of technical help we can provide but are unable to afford it. We want to be the do-gooders that volunteer to solve non-profit business/technical problems. Very little effort on our part can make a huge difference to a non-profit. We want to help!
 <!-- Inception story here -->
@@ -19,11 +19,11 @@ All experience levels are definitely welcome! We have a wide variety of skill le
 
 ##### Do I need to be a programmer?
 
-We need both developers and designers at Ruby for Good.
+We need both developers and designers at Code for Good.
 
-##### Do I need to be a Ruby programmer?
+##### Do I need to be a Python programmer?
 
-You don't HAVE to be a Ruby programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Ruby. :)
+You don't HAVE to be a Python programmer but it does help. We're more than happy to welcome programmers of other languages, especially if you're interested in learning some Python. :)
 
 ##### How do you choose projects?
 
@@ -31,38 +31,38 @@ A lot of cold-calling/emailing individuals and organizations, soliciting suggest
 
 ##### What's an appropriate project?
 
-Good projects can be completed in about a weekend, help improve the efficiency of a non-profit, and are open-source so we can help give back to the community. Have the beginnings of an idea? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+Good projects can be completed in about a weekend, help improve the efficiency of a non-profit, and are open-source so we can help give back to the community. Have the beginnings of an idea? Suggest a project!
 
 ##### How do I suggest a project?
 
-Have a project you're jonesing to work on? <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+Have a project you're jonesing to work on? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDhmp0I_qW08biCxt0uMwvAkWmLvwkWefZ4_Yt9NgEASKBrA/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 
 ##### What ARE the projects this year?
 
-This year projects are focused around womens issues and families and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of May after registration closes.
+This year projects are focused around womens issues and families and we have some great organizations lined up! We'll announce project details, including available teams to join, around the beginning of July after registration closes.
 
 ##### I want to lead a team. What do I do?
 
-During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late March with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Ruby for Good. Setup includes creating a github repo under the Ruby for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
+During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late March with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Code for Good. Setup includes creating a github repo under the Code for Good github, filing issues and making some technology suggestions. [You can read about the team lead process here](/team-leads).
 
 ##### I don't know if I want to lead a team. What do I do?
 
-In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+In general, leading a team entails connecting with stakeholders, initial architecting, planning out project milestones, and keeping your team moving forward. Here's more <a href="http://www.blrice.net/blog/2014/08/09/lessons-learned-at-Code-for-good/">information</a> about leading a team from Brandon Rice, a team lead in 2015 (who was SUPER awesome. Just sayin'.). Still not sure and want to talk about it with an organizer? Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
-##### Do you allow remote teams at Ruby for Good?
+##### Do you allow remote teams at Code for Good?
 
 Unfortunately we're unable to accomodate remote teams this time around. We'd be open to discussing that as an option in 2018 for very enterprising and motivated individuals. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### How can I help?!
 
-* Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://docs.google.com/forms/d/1xuidYh1I-AEPSUH5n9y4h9E3csmQthNDYIOvmqVgt_Y/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
+* Suggest a project - We always need worthy projects! We've compiled a google doc to help you figure out a project. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDhmp0I_qW08biCxt0uMwvAkWmLvwkWefZ4_Yt9NgEASKBrA/viewform"><i class="fa fa-heart-o fa-1x"></i>Suggest a project!</a>
 * Lead a team - a great way to up your skills, especially if you've been programming for a while and are eager for the experience of leading a team.
-* Donations/Sponsors - we need lots of help with fundraising. Ruby for Good is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. :)
+* Donations/Sponsors - we need lots of help with fundraising. Code for Good is expensive and we'd like to offer tickets to the wonderful folks who volunteer for as little as possible. This is only possible with donations and sponsors! Reach out to your employers to see if they would be willing to help us give back to our community. :)
 * Attendees - we need both developer and designer expertise!
 
 ##### Is this a hackathon?
 
-No. This is definitely not a hackathon. Sean cringes everytime someone mentions 'hackathon' and 'Ruby for Good' in the same sentence. (Try it.)
+No. This is definitely not a hackathon. Sean cringes everytime someone mentions 'hackathon' and 'Code for Good' in the same sentence. (Try it.)
 
 ##### When do I need to purchase my tickets?
 
@@ -70,7 +70,7 @@ By May 1st or when we sell out, whichever comes first!
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
-After February 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+After May 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### What does my registration go toward?
 
@@ -78,7 +78,7 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 ##### When do tickets go on sale?
 
-Feb 10, 2017!
+April 25, 2017!
 
 ##### Do I really HAVE to get there by 5pm on Thursday?
 
@@ -94,23 +94,11 @@ The cafeteria is open for 2 hours during meal times (breakfast, lunch and dinner
 
 ##### I'm a vegetarian/dairy-free/vegan/gluten-free/paleo/allergic to... will you feed me?
 
-Absolutely. In 2017 we will be eating food cafeteria-style and the chefs accomodate all dietary needs. And yes, rest assured there will be plenty of lentils! ;) Attendees from 2016 who had dietary restrictions told us this was the best they had ever been fed at an event!
-
-##### What's it REALLY like at Ruby for Good?
-
-So glad you asked! For expert insight, here are a couple of blog posts written up by past attendees:
-
-* http://alwaysbelearning.co/2014/08/05/ruby-for-good/
-* http://www.blrice.net/blog/2014/08/09/lessons-learned-at-ruby-for-good/
-* http://rolentle.com/ruby-for-good/
-
-##### What tour? What's a FONZ?
-
-The Friends of the National Zoo ([FONZ](https://nationalzoo.si.edu/JoinFonz/join.cfm)) is giving us a personalized, not-open-to-the-public tour of the Smithsonian Conservation Biology Institute (SCBI) grounds and animal habitats so we can learn about red pandas, bison, and other friendly creatures, their homes, and the research being done on-site. We'll have more information about this soon!
+Absolutely. In 2017 we will be eating food cafeteria-style and the chefs accomodate all dietary needs. And yes, rest assured there will be plenty of lentils! ;) 
 
 ##### Do you have scholarships?
 
-We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the DC-area on your own, a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).
+We have a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the Portland area on your own, a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).
 
 ##### What do I need to bring?
 
@@ -118,7 +106,7 @@ Bring yourself, your laptop, a powersource, some clothes and your favorite board
 
 ##### How do I get there?
 
-We are collecting information about carpooling [here](https://docs.google.com/spreadsheets/d/1nq7XrtqABpowMnNPPVbcRShYPwgfveUjF4TZu5CdCIU/edit). Please fill out the form if you need a ride or can offer a ride and Kalimar will do his best to match people up! Contact Kalimar at kalimar@rubyforgood.org. Hop into the #carpool channel in slack for more info!
+Hop into the #carpool channel in slack for more info!
 
 ##### How do I indicate I want to room with my friend/significant other?
 

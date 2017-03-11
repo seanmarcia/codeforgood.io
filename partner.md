@@ -19,7 +19,7 @@ We excel at figuring out what your biggest pain points are and what kind of tedi
 
 We can and have built other kinds of software and this is only to give you an idea. We'll definitely find a way to help!
 
-Listen to what one of our amazing partner organizations from 2016 had to say:
+Listen to what one of our amazing partner organizations from 2016 at our sister event, Ruby for Good, had to say:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kON0NSr6qk8" frameborder="0" allowfullscreen></iframe>
 
@@ -44,4 +44,4 @@ They will meet and drill down with you and what you really need.They will confir
 They will meet virtually (skype/hangouts/etc) with you during the event to introduce the team and to clarify any questions.
 Within one month of the event's completetion we will deliver the software to you.
 
-[Email us](mailto:{{ site.data.constants.contact_email }}) or submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLScfGdu_Tx5UFoQ8zC2LgMCUj46RTRmx0Sfj1I1VuTYmvzo1Zw/viewform).
+[Email us](mailto:{{ site.data.constants.contact_email }}) or submit your project [here](https://docs.google.com/forms/d/1_xmxFsQD1MDNE-oNlZRzqDRcqu1z5exOkE9JpnrsU_k/edit).

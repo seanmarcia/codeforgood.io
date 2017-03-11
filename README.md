@@ -1,6 +1,6 @@
-# rubyforgood.org
+# Codeforgood.org
 
-This repository holds [rubyforgood.org](http://rubyforgood.org), a site built on [GitHub Pages](https://pages.github.com/).
+This repository holds [Codeforgood.org](http://Codeforgood.org), a site built on [GitHub Pages](https://pages.github.com/).
 
 ## Running Locally for Development
 
@@ -20,7 +20,7 @@ The site will be available at [http://localhost:4000](http://localhost:4000).
 
 ## Team Leads: Add or Update your project in the Yearbook
 
-Add or update your project on this page by submitting a pull request to the rubyforgood.org repository:
+Add or update your project on this page by submitting a pull request to the Codeforgood.org repository:
 
 * Pull down or fork the repository
 * Create a branch with the year and your team name

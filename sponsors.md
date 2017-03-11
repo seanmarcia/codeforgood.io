@@ -4,12 +4,12 @@ layout: page
 
 ### Sponsors
 
-We're very proud to again be organizing the Ruby for Good conference. This conference, to our knowledge, is the first and currently only conference of this kind ever. We are bringing together Rubyists to learn, teach, and work on civic and open source projects.
+We're very proud to be organizing the Code for Good conference. This conference, to our knowledge, is the first and currently only conference of this kind for the Python programming language ever. We are bringing together Pythonistas to learn, teach, and work on civic and open source projects.
 
 
 ###### Why Sponsor?
 
-By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Ruby community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Ruby community. Last year the conference was fully registered with a large waitlist. Due to the demand we anticipate once again increasing the attendee limit.
+By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Code community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Code community. Last year the conference was fully registered with a large waitlist. Due to the demand we anticipate once again increasing the attendee limit.
 
 <section class="row sponsor-levels">
 <div class="col-md-3 col-sm-3" markdown="1">
@@ -66,11 +66,11 @@ $3,000
 </div>
 <div class="col-md-3 col-sm-3" markdown="1">
 
-###### **Ruby**
+###### **Code**
 Contact us!
 
 <div class="btn-wrapper">
-<a href="mailto:{{ site.data.constants.contact_email }}?subject=Ruby Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
+<a href="mailto:{{ site.data.constants.contact_email }}?subject=Code Sponsorship" class="btn btn-sm btn-primary">1 Available</a>
 </div>
 
 - Let us know what you're looking for
@@ -115,8 +115,8 @@ $1 – $500
 <a href="mailto:{{ site.data.constants.contact_email }}?subject=Donor Sponsorship" class="btn btn-sm btn-primary">Contact Us</a>
 </div>
 
-- Contribute towards the Ruby for Good Scholarship fund, used to allow more people the opportunity to participate
-- Feel great about making Ruby for Good gooder
+- Contribute towards the Code for Good Scholarship fund, used to allow more people the opportunity to participate
+- Feel great about making Code for Good gooder
 
 </div>
 </div>
