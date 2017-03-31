@@ -143,7 +143,7 @@
 
     map = new google.maps.Map(document.getElementById('canvas-map'),mapOptions);
     var image = 'assets/img/pmarker.png';
-    var myLatLng = new google.maps.LatLng(38.88677, -78.16596);
+    var myLatLng = new google.maps.LatLng(45.4808317,-122.6314011);
     var beachMarker = new google.maps.Marker({
       position: myLatLng,
       map: map,
