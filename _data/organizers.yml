@@ -6,10 +6,21 @@
   twitter: seanmarcia
   github: SeanMarcia
   img: assets/img/gallery/sean_thumbnail.jpg
-- name: Teresa Finn
+- name: Polly Sileo
   about: Loves community, helping others and making a difference in the world.
   title: Cat Herder
-  twitter: teresa_finn
-  github: teresafinn
-  img: assets/img/gallery/teresa_thumbnail.jpg
-
+  twitter: N3rdyTeacher
+  github: pollygee
+  img: assets/img/gallery/polly_thumbnail.jpg
+- name: Terian Koscik
+  title: Community Maker
+  about: Does awesome things in so many ways.
+  twitter: spine_cone
+  github: spinecone
+  img: assets/img/gallery/terian_thumbnail.png
+- name: Nate Smith
+  about: Loves community, helping others and making a difference in the world.
+  title: Cat Herder
+  twitter: natesmith
+  github: natesmith
+  img: assets/img/gallery/nate_thumbnail.jpg
