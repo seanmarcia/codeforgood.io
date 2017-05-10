@@ -9,7 +9,7 @@ We're very proud to be organizing the Code for Good conference. This conference,
 
 ###### Why Sponsor?
 
-By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Code community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Code community. Last year the conference was fully registered with a large waitlist. Due to the demand we anticipate once again increasing the attendee limit.
+By the very nature of our conference, our attendees are some of the most passionate, connected, and involved in the Code community. For companies looking to hire this is an excellent opportunity to meet and interact professionally and socially with prospective candidates. By sponsoring you are showing your commitment to your community, open source, and the Code community.
 
 <section class="row sponsor-levels">
 <div class="col-md-3 col-sm-3" markdown="1">
