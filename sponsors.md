@@ -66,7 +66,7 @@ $3,000
 </div>
 <div class="col-md-3 col-sm-3" markdown="1">
 
-###### **Code**
+###### **Python**
 Contact us!
 
 <div class="btn-wrapper">
