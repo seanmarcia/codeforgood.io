@@ -31,7 +31,7 @@ When we disagree, try to understand why. Disagreements, both social and technica
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund. The organizers and volunteers will be introduced at the beginning of the event.
 
-Code for Good organizers will be happy to help participants contact GMU police or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
+Code for Good organizers will be happy to help participants contact Reed police or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
 We're people trying to make the world better.
 
