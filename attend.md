@@ -15,7 +15,7 @@ This is an event for people of *all* skill levels so even if you are new, don't 
 
 [Here is the schedule for 2017.](/2017.html)
 
-Here is what actual attendees have written about the event:
+<!-- Here is what actual attendees have written about the event: -->
 
 ###### Interested in Leading a Team?
 
