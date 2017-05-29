@@ -12,7 +12,7 @@ Now for the details…
 
 #### What Does It Mean To Lead A Team?
 
-As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Code for Good organizers, pitching your project to Code for Good attendees, leading your team at the event on May 18-21, and then seeing the project through to completion.
+As a team lead you will be connecting with a partner organization that has a non-profit or civic mandate and work to deliver them software in support of their mission. This entails everything from meeting with the stakeholders, gathering requirements, translating those requirements, providing initial architecting, planning out project milestones, communicating with Code for Good organizers, pitching your project to Code for Good attendees, leading your team at the event on July 27 - 30, and then seeing the project through to completion.
 
 #### What we expect from team leads:
 
@@ -57,7 +57,7 @@ As a team lead you will be connecting with a partner organization that has a non
 ##### What team leads can expect from us?
 * We will ensure that the partner organization will work with you and be available for questions at the event.
 * We will make introductions between you and the partner organization.
-* It sucks to be at a roadblock so the organizer overseeing your project will provide multiple methods of contact and will commit to responding to any request within a day.
+* It sucks to be at a roadblock, so the organizer overseeing your project will provide multiple methods of contact, and will commit to responding to any request within a day.
 * During the event we will be available to help in any way you many need it.
 * After your project is delivered we will collect and give you meaningful feedback from the organization, your team and the organizers. We all want to grow and improve and we’ll provide actionable feedback to help you.
 * We will take over maintenance of the application after it has been delivered. You are completely welcome to stick with it and continue managing the project if you'd like.
