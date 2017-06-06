@@ -70,7 +70,7 @@ By May 1st or when we sell out, whichever comes first!
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
-After May 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
+After June 28th we will be unable to offer refunds but we will happily help coordinate exchanges until May 1st. Drop us a <a href="mailto:{{ site.data.constants.contact_email }}">note</a>.
 
 ##### What does my registration go toward?
 
@@ -78,7 +78,7 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 ##### When do tickets go on sale?
 
-April 25, 2017!
+They are [on sale now](https://ti.to/codeforgood/code-for-good)!
 
 ##### Do I really HAVE to get there by 5pm on Thursday?
 
