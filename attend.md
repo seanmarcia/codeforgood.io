@@ -35,7 +35,7 @@ a [note](mailto:{{ site.data.constants.contact_email }}).
 
 ###### Purchasing tickets
 
-Tickets go on sale May 25th, 2017!
+Tickets are [on sale now](https://ti.to/codeforgood/code-for-good)!
 
 Please read our [Code of Conduct](/coc.html) prior to attending.
 

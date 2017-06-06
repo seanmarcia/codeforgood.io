@@ -98,7 +98,7 @@ The event costs money to put on. We try to raise as much as possible through spo
 
 ##### When do tickets go on sale?
 
-May 25, 2017!
+They are [on sale now](https://ti.to/codeforgood/code-for-good)!
 
 ##### Do I really HAVE to get there by 5pm on Thursday?
 
@@ -155,6 +155,3 @@ For Good, an event on the east coast that Sean has been running for years. The
 main differences from the last Ruby for Good event are the switch to Python,
 opting for communal meals over catered food, and being on the west coast.
 
-##### Do I get something special if I've been for the past 4 years?
-
-A big bear hug from all the organizers!
