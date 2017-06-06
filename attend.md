@@ -3,7 +3,7 @@ layout: page
 ---
 ### Attending Code for Good
 
-Code for Good is an annual event based out of the Portland area where Python programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2017 the event will take place at Reed College. Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us Jul 27-30, 2017 for the fun of giving back!
+Code for Good is a new annual event based out of the Portland area where Python programmers from all over the globe get together for a long weekend to build projects that help our communities. In 2017 the event will take place at Reed College. Participants will stay in on-site dorms with hacking and socializing takes place in communal areas. Join us Jul 27-30, 2017 for the fun of giving back!
 
 ###### How Does Code for Good Work?
 
@@ -19,16 +19,26 @@ This is an event for people of *all* skill levels so even if you are new, don't 
 
 ###### Interested in Leading a Team?
 
-During registration we'll ask if you'd like to lead a team - say yes! We'll be in touch in mid-to-late March with potential projects. We'll brief you on expectations and put you in touch with your non-profit so you can work with them in advance of the event to set up project requirements, milestones and initial set up so you can hit the ground running with your team at Code for Good. Setup includes creating a github repo under the Code for Good github, filing issues and making some technology suggestions. If you want to know what it will be like to lead a team this year, [read our team lead guide](/team-leads.html). For an in-depth look at what it's like to lead a team, check out Brandon Rice's [blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-Code-for-good/). If you're not sure and want to talk about it with an organizer? Drop us a [note](mailto:{{ site.data.constants.contact_email }}).
+During registration we'll ask if you'd like to lead a team.  We'll be
+in touch in early July with potential projects. We'll brief you on
+expectations and put you in touch with your non-profit so you can work with them
+in advance of the event to set up project requirements, milestones and initial
+set up so you can hit the ground running with your team at Code for Good. Setup
+includes creating a github repo under the Code for Good github, filing issues
+and making some technology suggestions. If you want to know what it will be like
+to lead a team this year, [read our team lead guide](/team-leads.html). For an
+in-depth look at what it's like to lead a team, check out Brandon
+Rice's
+[blog](http://www.blrice.net/blog/2015/08/10/leading-a-team-at-Code-for-good/).
+If you're not sure and want to talk about it with an organizer? Drop us
+a [note](mailto:{{ site.data.constants.contact_email }}).
 
 ###### Purchasing tickets
 
-Tickets go on sale April 20, 2017!
-
-<!--Tickets go on sale April 4, 2016.
-
-During registration we ask if there's anything else you'd like us to know.  You can use this section to indicate that you'd like to room with a partner or friend who is also attending.  We will be sure to accommodate this when making the room assignments
-
-Each year we offer a limited number of scholarship tickets but are unable to provide transportation funds. Criteria for selection includes the ability to get to the DC-area on your own, a documented financial need, and a short essay. Apply for a scholarship [here](https://docs.google.com/forms/d/1M3PJepMOZcqUcIN81Ju7YEeXpQKhYWnSWnmgeZTX33w/viewform#start=openform).-->
+Tickets go on sale May 25th, 2017!
 
 Please read our [Code of Conduct](/coc.html) prior to attending.
+
+###### More info
+
+If you have more questions, check out our [FAQ](/faq).
