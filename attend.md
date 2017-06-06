@@ -23,7 +23,7 @@ During registration we'll ask if you'd like to lead a team - say yes! We'll be i
 
 ###### Purchasing tickets
 
-Tickets go on sale April 20, 2017!
+Tickets are [on sale now](https://ti.to/codeforgood/code-for-good)!
 
 <!--Tickets go on sale April 4, 2016.
 
