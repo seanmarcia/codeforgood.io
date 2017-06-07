@@ -48,6 +48,15 @@
 
     $('#mobileheader').html($('#header').html());
 
+    // fix toggling dropdown inside dropdown
+    // when click on dropdown link inside mobile menu, bootstrap will toggle both, submenu and parent menu
+    // this fix will toggle only submenu
+    $('#mobileheader li.dropdown [data-toggle="dropdown"]').on('click', function (e) {
+      e.stopPropagation();
+      e.preventDefault();
+      $(this).closest('li').toggleClass('open');
+    });    
+    
     function heroInit() {
       var hero        = jQuery('#hero'),
         winHeight   = jQuery(window).height(),
