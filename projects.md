@@ -24,6 +24,14 @@ action. We'll be helping them set up an interactive map of Portland that
 highlights important historical and cultural sights that might otherwise go
 unseen by residents and visitors alike.
 
+#### Meta
+
+Code For Good is a non-profit, too :) The organizers will be leading a very
+informal team to work on the Code For Good website and brainstorm ideas for
+future events. We strongly encourage attendees to consider our partner
+non-profits' projects first, but feel free to drop by and give us any feedback
+or ideas during the event.
+
 #### More to come!
 
 We're finalizing project ideas with organizations like Free Geek, the World
