@@ -32,10 +32,18 @@ future events. We strongly encourage attendees to consider our partner
 non-profits' projects first, but feel free to drop by and give us any feedback
 or ideas during the event.
 
+#### First Chesapeake
+
+Studies have shown that if you engage children in STEM activities they are more likely to become inspired to pursue careers in STEM related fields. [First Chesapeake](https://www.firstchesapeake.org/) accomplishes this by engaging kids in exciting Mentor-based programs that build science, engineering, and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership. We'll be helping them with a volunteer tracking system.
+
+#### Mirror Foundation
+
+Every child has the right to happiness and to grow up in a safe environment. Unfortunately, among the poor of northern Thailand, especially the hilltribes, this right is often not realized. The cities in northern Thailand are full of children who have left school as early as the fourth grade, to struggle earning money for their family. Worse yet, the extreme poverty of the region is fertile ground for those wishing to traffic women and children to wealthier areas of the country. The [Mirror Foundation](https://www.themirrorfoundation.org/themirrorfoundation/index.php/21-current-projects/project-to-combat-trafficking-in-women-and-children) is working to prevent this. We'll be helping them with a facial recognition application to help identify trafficked children.
+
 #### More to come!
 
 We're finalizing project ideas with organizations like Free Geek, the World
-Wildlife Federation, PDX Resistance, and Terra Ref. If you want to suggest a
+Wildlife Fund, PDX Resistance, and others. If you want to suggest a
 project for us to work
 on,
 [there is still time!](https://docs.google.com/forms/d/e/1FAIpQLSeDhmp0I_qW08biCxt0uMwvAkWmLvwkWefZ4_Yt9NgEASKBrA/viewform)
