@@ -86,7 +86,7 @@ No. This is definitely not a hackathon. Sean cringes everytime someone mentions 
 
 ##### When do I need to purchase my tickets?
 
-By July 10th or when we sell out, whichever comes first!
+By July 12th if you want to guarantee yourself a conference shirt or when we sell out, whichever comes first!
 
 ##### Oops, I bought my ticket and now I can't go. Will you please refund/transfer?
 
